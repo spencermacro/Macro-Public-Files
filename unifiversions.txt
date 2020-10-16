@@ -1,0 +1,2 @@
+https://dl.ui.com/unifi/6.0.23/UniFi-installer.exe
+https://dl.ui.com/unifi/5.14.23/UniFi-installer.exe
